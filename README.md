@@ -1,4 +1,4 @@
-Automated Train Booking Functionality with Selenium -> 
+## Automated Train Booking Functionality with Selenium
 This project aims to automate the functionality of booking a train ticket on the MakeMyTrip website. The automation script will perform the following steps:
 
 - Navigate to the MakeMyTrip railways page.
